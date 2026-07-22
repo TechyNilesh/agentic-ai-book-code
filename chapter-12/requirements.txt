@@ -1,0 +1,5 @@
+langchain-anthropic
+anthropic
+langsmith
+opentelemetry-api
+opentelemetry-sdk

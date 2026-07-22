@@ -1,0 +1,11 @@
+Sample placeholder article for testing 04_news_summary.py.
+Replace this file with a real news article of your choice before
+running the script for the lab deliverable.
+
+The Indian Space Research Organisation (ISRO) announced on Monday
+that its next lunar mission will carry a new set of scientific
+instruments to study the Moon's south pole. Officials said the
+mission is on track for a launch next year. Scientists from three
+universities are contributing instruments to the mission. The
+announcement was welcomed by the research community as a step
+forward for India's space programme.

@@ -1,0 +1,8 @@
+# 01_defense_in_depth.py only uses the Python standard library (re).
+# No packages are required to run the demo as shipped.
+#
+# If you swap the stubbed small_llm.classify() call for a real
+# guardrail model (see the book's Guardrails section), you will need
+# that model's client library, for example:
+# transformers
+# torch

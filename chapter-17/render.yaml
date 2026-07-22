@@ -1,0 +1,13 @@
+# Chapter 16 -- Deployment and Production
+# Render.com service definition for the Lab "Deploy a Personal-Assistant
+# Agent to Render" (Section 16.10, Lab).
+
+services:
+  - type: web
+    name: pa-agent
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false

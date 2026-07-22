@@ -1,0 +1,3 @@
+# TODO: write your question-answering prompt template here.
+# See Chapter 7 (RAG) for prompt patterns that ask the model to
+# answer only from the retrieved context and cite page numbers.
