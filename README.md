@@ -8,8 +8,8 @@ capstone scaffold from the book lives here, one folder per chapter.
 ## Quick start
 
 ```bash
-git clone <REPO_URL>
-cd <REPO_NAME>
+git clone https://github.com/TechyNilesh/agentic-ai-book-code.git
+cd agentic-ai-book-code
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
